@@ -58,4 +58,13 @@ template = "about.html"
 					<a href="https://www.purestorage.com/">Pure Storage</a>
 				</p>
 			</div>
+<div class="item" style="flex-grow: 1; margin-top: auto;">
+				<img style="border-radius: 50%;" src="/images/gnn.jpg" width="140">
+				<p><a
+				href="https://www.neville-neil.com/gnn">George
+				Neville-Neil</a></p>
+				<p>
+					<a href="https://www.msbit.com/">MSB Associates</a> &amp;
+				</p>
+			</div>
 		</div>
