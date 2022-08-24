@@ -61,10 +61,10 @@ template = "about.html"
 <div class="item" style="flex-grow: 1; margin-top: auto;">
 				<img style="border-radius: 50%;" src="/images/gnn.jpg" width="140">
 				<p><a
-				href="https://www.neville-neil.com/gnn">George
+				href="http://www.neville-neil.com/">George
 				Neville-Neil</a></p>
 				<p>
-					<a href="https://www.msbit.com/">MSB Associates</a> &amp;
+					<a href="https://www.msbit.com/">MSB Associates</a>
 				</p>
 			</div>
 		</div>
