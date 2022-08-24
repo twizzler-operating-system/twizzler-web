@@ -3,7 +3,7 @@ paginate_by = 5
 sort_by = "date"
 +++
 
-Twizzler is a research operating system designed around the data-centric programming model. It is
+Twizzler is a research operating system, written in Rust, designed around the data-centric programming model. It is
 built from scratch with a new kernel focused on simplicity to facilitate direct access to shared,
 persistent data for applications with minimal OS involvement and interposition. Twizzler is
 motivated by the convergence of the memory hierarchy for traditionally "far away" memory, brought
