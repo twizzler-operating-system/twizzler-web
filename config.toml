@@ -19,7 +19,6 @@ taxonomies = [
 ]
 
 [extra]
-# Put all your custom variables here
 even_title = "<img src='/images/logo.png', width='20%'>Twizzler"
 even_menu = [
     {url = "about", name = "About"},
