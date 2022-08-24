@@ -7,7 +7,7 @@ template = "about.html"
 # About
 ## What is Twizzler?
 Twizzler is a new operating system. It was designed by the Center for Research in Storage Systems,
-primarily by Daniel Bittman, Peter Alvaro, and Ethan L. Miller. It's design is centered around a
+primarily by Daniel Bittman, Peter Alvaro, and Ethan L. Miller. Its design is centered around a
 "data-centric model", that is to say, a model in which the persistent data that applications access
 is the "primary citizen" instead of a process, as is common in other operating systems. Concretely,
 this translates to programs operating on persistent and shared data with memory semantics without the added
