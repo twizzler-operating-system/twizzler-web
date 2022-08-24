@@ -21,9 +21,9 @@ taxonomies = [
 [extra]
 even_title = "<img src='/images/logo.png', width='20%'>Twizzler"
 even_menu = [
-    {url = "about", name = "About"},
-    {url = "pubs", name = "Pubs"},
-    {url = "docs", name = "Docs"},
-    {url = "download", name = "Download"},
-    {url = "people", name = "People"},
+    {url = "$BASE_URL/about", name = "About"},
+    {url = "$BASE_URL/pubs", name = "Pubs"},
+    {url = "$BASE_URL/docs", name = "Docs"},
+    {url = "$BASE_URL/download", name = "Download"},
+    {url = "$BASE_URL/people", name = "People"},
 ]
