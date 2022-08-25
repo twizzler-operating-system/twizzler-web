@@ -30,6 +30,11 @@ template = "about.html"
 				<p><a href="https://scarcecomputing.com/">Achilles Benetopoulos</a></p>
 				<p>UC Santa Cruz</p>
 			</div>
+<div class="item" style="flex-grow: 1; margin-top: auto;">
+				<img style="border-radius: 50%;" src="/images/allen.jpg" width="140">
+				<p><a href="https://pandaz3d.github.io/">Allen Aboytes</a></p>
+				<p>UC Santa Cruz</p>
+			</div>
 		</div>
 <div class="container" style="text-align: center; align-items: end; margin-top: auto;
 			flex-grow: 1; justify-content: space-between;
